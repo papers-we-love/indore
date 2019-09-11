@@ -18,3 +18,5 @@ We are curating this repository with papers presented at PWL Indore and we keep 
 ### Contact
 
 **Pallav Boonlia** [pallav@systango.com](mailto:pallav@systango.com)
+**Vaibhav Gurnani** [vaibhav@systango.com](mailto:vaibhav@systango.com)
+**Anurag Vikram Singh** [avsingh@systango.com](mailto:avsingh@isystango.com)
